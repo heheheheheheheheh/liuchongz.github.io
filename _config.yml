@@ -1,1 +1,10 @@
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
+# Deployment 注释
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  # 类型
+  type: git
+  # 仓库
+  repo: git@github.com:xuezhisd/xuezhisd.github.io.git
+  # 分支
+  branch: master
