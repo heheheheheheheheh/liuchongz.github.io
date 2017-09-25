@@ -5,6 +5,6 @@ deploy:
   # 类型
   type: git
   # 仓库
-  repo: git@github.com:xuezhisd/xuezhisd.github.io.git
+  repo: git@github.com:liuchongz/liuchongz.github.io.git
   # 分支
   branch: master
